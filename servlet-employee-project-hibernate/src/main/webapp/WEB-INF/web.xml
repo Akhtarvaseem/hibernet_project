@@ -1,0 +1,40 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+
+<!-- this is used for insert data in table -->  
+<servlet>
+<servlet-class>com.jsp.servlect_project_with_hibernate.controller.EmployeeController</servlet-class>
+<servlet-name>employeeConfigur</servlet-name>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>employeeConfigur</servlet-name>
+<url-pattern>/empDetails</url-pattern>
+</servlet-mapping>
+
+<!-- this is used for update the data  -->
+<!-- <servlet> -->
+<!-- <servlet-class>com.jsp.servlect_project_with_hibernate.controller.UpdateDetails</servlet-class> -->
+<!-- <servlet-name>employeeupdate</servlet-name> -->
+<!-- </servlet> -->
+
+<!-- <servlet-mapping> -->
+<!-- <servlet-name>employeeupdate</servlet-name> -->
+<!-- <url-pattern>/empUpdates</url-pattern> -->
+<!-- </servlet-mapping> -->
+
+<!-- This is used for delete the data  -->
+
+<!-- <servlet> -->
+<!-- <servlet-class>com.jsp.servlect_project_with_hibernate.controller.DeleteEmployee</servlet-class> -->
+<!-- <servlet-name>empDelete</servlet-name> -->
+<!-- </servlet> -->
+
+<!--  <servlet-mapping> -->
+<!--  <servlet-name>empDelete</servlet-name> -->
+<!--  <url-pattern>/empsDelete</url-pattern> -->
+<!--  </servlet-mapping> -->
+</web-app>

@@ -1,0 +1,3 @@
+127.0.0.1 - - [13/Jan/2023:17:13:31 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Jan/2023:17:13:51 +0530] "GET /servlet.jsp.simple-project-with-hibernate-eves/index.jsp HTTP/1.1" 200 873
+0:0:0:0:0:0:0:1 - - [13/Jan/2023:17:14:25 +0530] "GET /servlet.jsp.simple-project-with-hibernate-eves/empDetails?id=444&name=kgjgj&email=ddk%40gmail.com&gender=male HTTP/1.1" 500 5825

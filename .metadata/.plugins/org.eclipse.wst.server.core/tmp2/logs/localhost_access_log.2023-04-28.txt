@@ -1,0 +1,17 @@
+127.0.0.1 - - [28/Apr/2023:09:42:09 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [28/Apr/2023:09:55:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:12 +0530] "GET /servlet-simple-project-eve/home.jsp HTTP/1.1" 200 492
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:21 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 98
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:50 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 98
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:51 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 98
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:52 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 98
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:52 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 98
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:55:55 +0530] "GET /servlet-simple-project-eve/home.jsp HTTP/1.1" 200 492
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:56:03 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 96
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:57:00 +0530] "GET /servlet-simple-project-eve/addnumber?number1=12&number2=12 HTTP/1.1" 500 96
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:57:04 +0530] "GET /servlet-simple-project-eve/home.jsp HTTP/1.1" 200 492
+127.0.0.1 - - [28/Apr/2023:09:57:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:57:30 +0530] "GET /servlet-simple-project-eve/employee-details.jsp HTTP/1.1" 200 957
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:57:49 +0530] "GET /servlet-simple-project-eve/empDetails?id=22&name=ldf&email=kod%40gamil.com&gender=male HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [28/Apr/2023:09:57:55 +0530] "GET /servlet-simple-project-eve/empDetails?id=22&name=ldf&email=kod%40gamil.com&gender=male HTTP/1.1" 200 177

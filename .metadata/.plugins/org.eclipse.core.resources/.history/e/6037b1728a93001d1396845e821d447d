@@ -1,0 +1,79 @@
+package com.jsp.servlect_project_with_hibernate.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.jsp.servlect_project_with_hibernate.dao.EmployeeDao;
+import com.jsp.servlect_project_with_hibernate.dto.Employee;
+import com.jsp.servlect_project_with_hibernate.service.EmployeeService;
+
+
+
+public class EmployeeController extends HttpServlet{
+
+//	static Employee employee;
+	    static int  id;
+		static String name;
+		static String email;
+		static String gender;
+//	EmployeeService service= new EmployeeService();
+	public static void main(String[] args) {
+		Employee employee= new Employee();
+		EmployeeDao dao=new EmployeeDao();
+		employee.setId(id);
+  		employee.setName(name);
+  		employee.setEmail(email);
+  		employee.setGender(gender);
+		
+		dao.insertEmployee(employee);
+	}
+	
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    	
+         int  id=Integer.parseInt(req.getParameter("id"));
+  		String name=req.getParameter("name");
+  		String email=req.getParameter("email");
+  		String gender=req.getParameter("gender");
+  		
+  		
+  		
+//  		employee.setId(id);
+//  		employee.setName(name);
+//  		employee.setEmail(email);
+//  		employee.setGender(gender);
+//  		
+//  		service.insertEmployee(employee);
+  		
+  		
+  		
+//  		PrintWriter printWriter=resp.getWriter();
+  		
+       PrintWriter printWriter=resp.getWriter();
+		
+		printWriter.write("<html><body>");
+		
+		printWriter.write("<h3 style='color:green'>Success...</h3>");
+		
+		RequestDispatcher dispatcher=req.getRequestDispatcher("index.jsp");
+		
+		dispatcher.include(req, resp);
+  		
+  		
+  		
+  		
+  		
+//  		printWriter.write("<html><body><table>");
+//  		printWriter.write("<tr><th>EmpId</th><th>EmpName</th><th>EmpEmail</th><th>EmpGender</th></tr>");
+//  		printWriter.write("<tr><td>"+id+"</td><td>"+name+"</td><td>"+email+"</td><td>"+gender+"</td>");
+//  		
+//  		printWriter.write("</table></body></html>");
+    }
+    	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;hibernet-many-to-one-opration-uni&apos;" deleteContents="false" description="Delete resource &apos;hibernet-many-to-one-opration-uni&apos;" element1="/hibernet-many-to-one-opration-uni" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1672308535450"/>
+</session>

@@ -1,0 +1,12 @@
+package com.hibernet_one_to_many_mobile_sim.service;
+
+import com.hibernet_one_to_many_mobile_sim.dao.MobileDao;
+import com.hibernet_one_to_many_mobile_sim.dto.Mobile;
+
+public class MobileService {
+
+	MobileDao dao=new MobileDao();
+	public void insertMobile(Mobile mobile) {
+		
+	}
+}

@@ -1,0 +1,599 @@
+
+Jan 12, 2023 17:29:43.282 NEW SESSION
+Jan 12, 2023 17:29:43.282 [14360:14048:0112/172942.675:ERROR:network_service_instance_impl.cc(521)] Network service crashed, restarting service.
+Jan 12, 2023 17:29:50.75 [14360:14048:0112/172950.074:ERROR:device_event_log_impl.cc(215)] [17:29:50.073] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 12, 2023 17:29:50.79 [14360:14048:0112/172950.078:ERROR:device_event_log_impl.cc(215)] [17:29:50.077] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 12, 2023 17:32:14.227 [14360:7408:0112/173214.226:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 12, 2023 17:37:11.760 [14360:6428:0112/173711.760:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 12, 2023 17:37:14.69 [14360:6428:0112/173714.068:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 12, 2023 17:37:25.666 [14360:14048:0112/173725.665:ERROR:device_event_log_impl.cc(215)] [17:37:25.665] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 13, 2023 15:32:56.542 NEW SESSION
+Jan 13, 2023 15:32:56.542 [8520:9000:0113/153256.538:ERROR:device_event_log_impl.cc(215)] [15:32:56.538] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 15:32:57.106 [8520:9000:0113/153256.538:ERROR:device_event_log_impl.cc(215)] [15:32:56.539] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 15:33:53.798 [8520:16704:0113/153353.796:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 13, 2023 15:35:39.452 [8520:9000:0113/153539.451:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:39.469 [8520:9000:0113/153539.451:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:39.469 [8520:9000:0113/153539.457:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:39.470 [8520:9000:0113/153539.462:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:42.413 [8520:9000:0113/153542.412:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:42.413 [8520:9000:0113/153542.412:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:42.416 [8520:9000:0113/153542.415:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:42.421 [8520:9000:0113/153542.420:ERROR:event_ack_data.cc(74)] StartExternalRequest failed: 2
+Jan 13, 2023 15:35:43.129 [8520:9000:0113/153543.128:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 14
+Jan 13, 2023 15:49:52.892 [8520:12820:0113/154952.891:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 13, 2023 16:08:32.830 [8520:9000:0113/160832.802:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=2
+Jan 13, 2023 16:11:19.384 [4796:16512:0113/161119.383:ERROR:login_database.cc(804)] Unable to create the meta table.
+Jan 13, 2023 16:11:19.385 [4796:16512:0113/161119.385:ERROR:login_database_async_helper.cc(54)] Could not create/open login database.
+Jan 13, 2023 16:11:20.73 [4796:10292:0113/161120.072:ERROR:model_type_store_service_impl.cc(38)] Failed to initialize ModelTypeStore backend: Init@components\sync\model\model_type_store_backend.cc:109: IO error: C:\Users\IMTEYAZ\AppData\Local\Google\Chrome\User Data\Default\Sync Data\LevelDB/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+Jan 13, 2023 16:11:24.749 [4796:680:0113/161124.748:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Jan 13, 2023 16:11:25.611 [4796:5344:0113/161125.611:ERROR:disk_cache.cc(205)] Unable to create cache
+Jan 13, 2023 16:11:25.612 [4796:5344:0113/161125.611:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Jan 13, 2023 16:11:26.68 [4796:5344:0113/161126.068:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 13, 2023 16:11:26.204 [4796:13388:0113/161126.203:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Jan 13, 2023 16:11:26.443 [4796:5344:0113/161126.442:ERROR:disk_cache.cc(205)] Unable to create cache
+Jan 13, 2023 16:11:26.444 [4796:5344:0113/161126.442:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+Jan 13, 2023 16:11:28.738 [4796:5344:0113/161128.737:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:11:29.745 [4796:5344:0113/161129.744:ERROR:service_worker_storage.cc(1941)] Failed to delete the database: Database IO error
+Jan 13, 2023 16:11:30.930 [4796:5344:0113/161130.929:ERROR:device_event_log_impl.cc(215)] [16:11:30.929] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 16:11:30.931 [4796:5344:0113/161130.930:ERROR:device_event_log_impl.cc(215)] [16:11:30.930] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 16:11:34.890 [4796:5344:0113/161134.889:ERROR:model_type_store_service_impl.cc(71)] Preferences datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.892 [4796:5344:0113/161134.889:ERROR:model_type_store_service_impl.cc(71)] Themes datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.894 [4796:5344:0113/161134.890:ERROR:model_type_store_service_impl.cc(71)] Extensions datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.895 [4796:5344:0113/161134.890:ERROR:model_type_store_service_impl.cc(71)] Search Engines datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.896 [4796:5344:0113/161134.890:ERROR:password_sync_bridge.cc(265)] Passwords datatype error was encountered: Password metadata store isn't available.
+Jan 13, 2023 16:11:34.898 [4796:5344:0113/161134.890:ERROR:model_type_store_service_impl.cc(71)] Apps datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.900 [4796:5344:0113/161134.890:ERROR:model_type_store_service_impl.cc(71)] History Delete Directives datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.902 [4796:5344:0113/161134.890:ERROR:model_type_store_service_impl.cc(71)] Dictionary datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.918 [4796:5344:0113/161134.917:ERROR:model_type_store_service_impl.cc(71)] Device Info datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.920 [4796:5344:0113/161134.917:ERROR:model_type_store_service_impl.cc(71)] Priority Preferences datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.921 [4796:5344:0113/161134.917:ERROR:model_type_store_service_impl.cc(71)] User Events datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.922 [4796:5344:0113/161134.917:ERROR:model_type_store_service_impl.cc(71)] User Consents datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.923 [4796:5344:0113/161134.918:ERROR:model_type_store_service_impl.cc(71)] Send Tab To Self datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.924 [4796:5344:0113/161134.918:ERROR:model_type_store_service_impl.cc(71)] Security Events datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.926 [4796:5344:0113/161134.918:ERROR:model_type_store_service_impl.cc(71)] Web Apps datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:34.927 [4796:5344:0113/161134.918:ERROR:model_type_store_service_impl.cc(71)] Sessions datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:11:53.514 [4796:5344:0113/161153.512:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:11:53.520 [4796:5344:0113/161153.519:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:12:01.578 [4796:5344:0113/161201.578:ERROR:model_type_store_service_impl.cc(71)] App settings datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:12:01.579 [4796:5344:0113/161201.578:ERROR:model_type_store_service_impl.cc(71)] Extension settings datatype error was encountered: ModelTypeStore backend initialization failed
+Jan 13, 2023 16:12:09.429 [4796:5344:0113/161209.429:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:12:27.152 [4796:18424:0113/161227.149:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 13, 2023 16:12:43.784 [4796:12536:0113/161243.784:ERROR:gcm_store_impl.cc(320)] Failed to open database C:\Users\IMTEYAZ\AppData\Local\Google\Chrome\User Data\Default\GCM Store: IO error: C:\Users\IMTEYAZ\AppData\Local\Google\Chrome\User Data\Default\GCM Store/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+Jan 13, 2023 16:22:24.301 [4796:5344:0113/162224.300:ERROR:device_event_log_impl.cc(215)] [16:22:24.300] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 13, 2023 16:24:33.716 [4796:15076:0113/162433.599:ERROR:gcm_store_impl.cc(430)] Destroy failed: IO error: C:\Users\IMTEYAZ\AppData\Local\Google\Chrome\User Data\Default\GCM Store/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+Jan 13, 2023 16:24:33.718 [4796:15372:0113/162433.599:ERROR:gcm_client_impl.cc(827)] Failed to reset GCM store
+Jan 13, 2023 16:25:26.952 [4796:5344:0113/162526.929:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.66 [4796:5344:0113/162527.065:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.95 [4796:5344:0113/162527.065:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.96 [4796:5344:0113/162527.065:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.130 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.170 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.171 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.209 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.210 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.264 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:25:27.266 [4796:5344:0113/162527.066:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:27:36.419 [4796:5344:0113/162736.384:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:27:37.45 [4796:5344:0113/162737.043:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:27:37.614 [4796:5344:0113/162737.612:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:27:46.129 [4796:5344:0113/162746.105:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:27:46.331 [4796:5344:0113/162746.329:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:28:31.366 [4796:5344:0113/162748.191:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:28:31.472 [4796:5344:0113/162748.488:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:32:06.745 [4796:5344:0113/163206.745:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:32:06.788 [4796:5344:0113/163206.785:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:32:13.85 [4796:5344:0113/163213.085:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:32:13.119 [4796:5344:0113/163213.118:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:34:18.194 [4796:5344:0113/163418.163:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:34:18.254 [4796:5344:0113/163418.254:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:36:00.792 [4796:5344:0113/163600.784:ERROR:device_event_log_impl.cc(215)] [16:36:00.784] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 13, 2023 16:36:30.886 [4796:5344:0113/163630.885:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:36:31.275 [4796:5344:0113/163631.274:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:36:53.754 [4796:5344:0113/163653.752:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:36:53.774 [4796:5344:0113/163653.763:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:36:53.776 [4796:5344:0113/163653.768:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:00.325 [4796:5344:0113/163700.323:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:00.326 [4796:5344:0113/163700.326:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 13, 2023 16:37:00.613 [4796:5344:0113/163700.612:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:23.923 [4796:5344:0113/163723.921:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:49.316 [4796:5344:0113/163749.315:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:49.472 [4796:5344:0113/163749.471:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:54.120 [4796:5344:0113/163754.118:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:54.549 [4796:5344:0113/163754.548:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:54.971 [4796:5344:0113/163754.969:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:37:56.585 [4796:5344:0113/163756.584:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:38:03.358 [4796:5344:0113/163803.357:ERROR:service_worker_task_queue.cc(232)] DidStartWorkerFail fheoggkfdfchfphceeifdbepaooicaho: 2
+Jan 13, 2023 16:40:08.165 [11512:10332:0113/164008.164:ERROR:device_event_log_impl.cc(215)] [16:40:08.164] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 16:40:08.167 [11512:10332:0113/164008.166:ERROR:device_event_log_impl.cc(215)] [16:40:08.166] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 16:41:04.478 [11512:14556:0113/164104.477:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 13, 2023 16:44:30.336 [11512:10332:0113/164430.336:ERROR:device_event_log_impl.cc(215)] [16:44:30.335] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 13, 2023 16:46:18.87 [11512:10332:0113/164618.086:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=2
+Jan 13, 2023 17:07:01.884 [6636:5524:0113/170701.883:ERROR:device_event_log_impl.cc(215)] [17:07:01.883] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 17:07:02.444 [6636:5524:0113/170701.884:ERROR:device_event_log_impl.cc(215)] [17:07:01.884] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 17:07:58.786 [6636:13504:0113/170758.785:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 13, 2023 17:15:01.442 [6636:15732:0113/171501.442:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 13, 2023 17:15:06.902 [6636:15732:0113/171506.901:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 13, 2023 17:15:21.432 [6636:5524:0113/171521.431:ERROR:device_event_log_impl.cc(215)] [17:15:21.431] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 13, 2023 20:30:34.835 [6636:15732:0113/203034.834:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 13, 2023 20:30:34.839 [6636:8292:0113/203034.838:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 13, 2023 20:30:43.805 [6636:15732:0113/203043.804:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 13, 2023 20:44:41.189 [6636:15732:0113/204441.188:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 13, 2023 20:54:53.303 [6636:19416:0113/205453.183:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 13, 2023 20:54:53.390 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 13, 2023 20:54:53.394 ERROR: Failed parsing Certificate
+Jan 13, 2023 20:54:53.396 
+Jan 13, 2023 21:17:11.290 [6636:15732:0113/211709.666:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Jan 13, 2023 22:48:36.580 NEW SESSION
+Jan 13, 2023 22:48:36.580 [14260:12504:0113/224836.576:ERROR:device_event_log_impl.cc(215)] [22:48:36.576] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 22:48:37.240 [14260:12504:0113/224836.626:ERROR:device_event_log_impl.cc(215)] [22:48:36.626] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 13, 2023 22:49:32.182 [14260:11008:0113/224932.180:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 14, 2023 01:03:50.845 NEW SESSION
+Jan 14, 2023 01:03:50.845 [11196:10248:0114/010350.843:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 14, 2023 01:03:54.892 [11196:10248:0114/010354.891:ERROR:device_event_log_impl.cc(215)] [01:03:54.891] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 14, 2023 01:03:55.100 [11196:10248:0114/010355.099:ERROR:device_event_log_impl.cc(215)] [01:03:55.098] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 14, 2023 01:04:48.354 [11196:7328:0114/010448.353:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 14, 2023 03:10:49.674 [11196:2860:0114/031049.079:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 14, 2023 11:05:26.93 [11196:2860:0114/110526.092:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 14, 2023 11:05:42.833 [11196:14868:0114/110542.833:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 11:06:15.159 [11196:2860:0114/110615.158:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 11:06:24.813 [11196:14868:0114/110624.813:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 14, 2023 11:06:36.462 [11196:2860:0114/110636.462:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 11:07:24.880 [11196:2860:0114/110724.879:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 11:10:51.559 [11196:14868:0114/110828.993:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 11:10:51.564 [11196:14868:0114/110914.031:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 11:10:51.565 [11196:2860:0114/110923.452:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 11:10:51.567 [11196:14868:0114/111010.646:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 11:10:51.568 [11196:2860:0114/111010.813:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Jan 14, 2023 11:29:29.894 NEW SESSION
+Jan 14, 2023 11:29:29.894 [232:14152:0114/112929.889:ERROR:device_event_log_impl.cc(215)] [11:29:29.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 14, 2023 11:29:30.488 [232:14152:0114/112929.890:ERROR:device_event_log_impl.cc(215)] [11:29:29.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 14, 2023 11:30:24.490 [232:8824:0114/113024.489:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 14, 2023 12:29:13.465 [232:7384:0114/122912.742:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 14, 2023 12:29:35.60 [232:7384:0114/122935.059:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 12:29:48.180 [232:14152:0114/122948.180:ERROR:device_event_log_impl.cc(215)] [12:29:48.180] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 14, 2023 12:30:04.324 [232:7384:0114/123004.324:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 12:30:13.908 [232:14152:0114/123013.908:ERROR:device_event_log_impl.cc(215)] [12:30:13.907] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 14, 2023 12:33:15.729 [232:7384:0114/123315.729:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 14, 2023 12:45:31.832 [232:7384:0114/124531.698:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 12:46:00.831 [232:7384:0114/124600.830:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 12:46:56.170 [232:7384:0114/124656.169:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 13:24:05.417 [232:7384:0114/132405.179:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 14:43:28.172 [232:7384:0114/144328.171:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 14:43:28.434 [232:15500:0114/144328.434:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 14:44:15.737 [232:14152:0114/144415.737:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 14, 2023 14:44:15.880 [232:14152:0114/144415.879:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 14, 2023 14:44:19.221 [232:7384:0114/144419.220:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 14:44:43.456 [232:19240:0114/144443.454:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 14:45:46.912 [232:7384:0114/144546.912:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 14, 2023 14:46:35.972 [232:892:0114/144635.971:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 14, 2023 14:49:44.694 [232:7384:0114/144944.693:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 14, 2023 14:49:47.234 [232:892:0114/144947.233:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jan 23, 2023 15:44:59.169 NEW SESSION
+Jan 23, 2023 15:44:59.169 [10244:5264:0123/154459.162:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 23, 2023 15:45:05.307 [10244:5264:0123/154505.307:ERROR:device_event_log_impl.cc(215)] [15:45:05.306] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 23, 2023 15:45:05.309 [10244:5264:0123/154505.308:ERROR:device_event_log_impl.cc(215)] [15:45:05.308] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 23, 2023 15:45:05.311 [10244:5264:0123/154505.308:ERROR:device_event_log_impl.cc(215)] [15:45:05.308] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 23, 2023 15:45:45.635 [10244:10996:0123/154545.634:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 15:45:49.88 [10244:13224:0123/154549.087:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 23, 2023 15:45:57.292 [10244:10700:0123/154557.291:ERROR:backend_impl.cc(1040)] Critical error found -8
+Jan 23, 2023 15:46:15.107 [10244:10996:0123/154615.106:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 15:47:03.518 [10244:10996:0123/154703.516:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 15:48:43.30 [10244:10996:0123/154843.029:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 15:50:41.291 [10244:10996:0123/155041.290:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 23, 2023 16:14:31.948 [10244:10996:0123/161431.948:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 23, 2023 16:14:35.975 [10244:10996:0123/161435.975:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2023 16:14:36.733 [10244:5264:0123/161436.732:ERROR:device_event_log_impl.cc(215)] [16:14:36.722] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2023 16:41:50.891 [15660:10860:0123/164150.890:ERROR:device_event_log_impl.cc(215)] [16:41:50.890] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 23, 2023 16:41:51.42 [15660:10860:0123/164150.904:ERROR:device_event_log_impl.cc(215)] [16:41:50.904] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 23, 2023 16:42:50.655 [15660:2152:0123/164250.655:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 23, 2023 16:47:11.636 [15660:10420:0123/164711.635:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 16:47:36.561 [15660:10420:0123/164736.560:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 16:48:26.373 [15660:10420:0123/164826.372:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 16:50:22.556 [15660:10420:0123/165022.556:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 16:53:15.316 [15660:10420:0123/165315.316:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 16:56:20.50 [15660:10860:0123/165620.049:ERROR:device_event_log_impl.cc(215)] [16:56:20.049] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2023 16:57:26.629 [15660:10860:0123/165726.628:ERROR:device_event_log_impl.cc(215)] [16:57:26.628] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2023 16:57:29.609 [15660:10860:0123/165729.608:ERROR:device_event_log_impl.cc(215)] [16:57:29.608] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2023 16:57:54.549 [15660:10860:0123/165754.548:ERROR:device_event_log_impl.cc(215)] [16:57:54.548] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2023 17:01:02.561 [15660:10420:0123/170102.559:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 18:37:38.78 [15660:10420:0123/183738.077:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2023 18:47:38.98 [15660:10420:0123/184738.097:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 18:57:38.111 [15660:10420:0123/185738.110:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 19:07:38.132 [15660:10420:0123/190738.130:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 19:17:38.139 [15660:10420:0123/191738.138:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 20:51:09.556 [15660:10420:0123/205109.555:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 20:51:09.764 [15660:15072:0123/205109.556:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 20:54:17.98 [15660:15072:0123/205417.097:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 20:55:02.114 [15660:11904:0123/205502.113:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 20:56:09.631 [15660:11904:0123/205609.630:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 20:58:58.407 [15660:3080:0123/205858.406:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 21:01:09.579 [15660:10420:0123/210109.578:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 21:03:11.558 [15660:11904:0123/210311.556:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 21:07:17.425 [15660:10420:0123/210717.424:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2023 21:07:17.431 [15660:4488:0123/210717.429:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 21:10:59.786 [15660:10420:0123/211059.785:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 23, 2023 21:44:07.957 [15660:10420:0123/214407.956:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 21:44:07.958 [15660:11904:0123/214407.957:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 21:44:10.179 [15660:10420:0123/214410.179:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 21:44:10.637 [15660:11904:0123/214410.637:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 23, 2023 21:44:52.969 [15660:7960:0123/214452.968:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 21:44:53.160 [15660:10420:0123/214453.160:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 22:24:49.800 [15660:10420:0123/222449.799:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 22:24:49.801 [15660:7960:0123/222449.800:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:26:31.67 [15660:11904:0123/222631.065:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:28:01.94 [15660:10420:0123/222801.092:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 22:29:02.963 [15660:7960:0123/222902.962:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:35:22.668 [15660:11904:0123/223522.667:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:35:31.977 [15660:10420:0123/223531.976:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 22:44:52.218 [15660:14412:0123/224452.217:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:45:31.998 [15660:10420:0123/224531.998:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 22:54:52.239 [15660:15880:0123/225452.237:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 22:55:32.17 [15660:10420:0123/225532.015:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 23:04:52.259 [15660:13780:0123/230452.258:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 23:05:32.23 [15660:10420:0123/230532.023:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 23:14:52.280 [15660:13780:0123/231452.278:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 23:15:32.45 [15660:10420:0123/231532.044:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2023 23:24:52.299 [15660:16140:0123/232452.298:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 23, 2023 23:25:32.66 [15660:10420:0123/232532.066:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Jan 24, 2023 16:29:25.357 NEW SESSION
+Jan 24, 2023 16:29:25.358 [13844:9948:0124/162925.354:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 24, 2023 16:29:26.911 [13844:9948:0124/162926.910:ERROR:device_event_log_impl.cc(215)] [16:29:26.910] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 16:29:27.32 [13844:9948:0124/162927.031:ERROR:device_event_log_impl.cc(215)] [16:29:27.031] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 16:29:27.55 [13844:9948:0124/162927.054:ERROR:device_event_log_impl.cc(215)] [16:29:27.054] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 16:29:42.305 [13844:8180:0124/162942.304:ERROR:backend_impl.cc(1040)] Critical error found -8
+Jan 24, 2023 16:29:52.440 [13844:3952:0124/162952.439:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:30:20.946 [13844:3952:0124/163020.945:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:30:21.97 [13844:12412:0124/163021.096:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 24, 2023 16:31:05.554 [13844:3952:0124/163105.553:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:32:48.768 [13844:3952:0124/163248.768:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:36:27.437 [13844:3952:0124/163627.436:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:43:31.911 [13844:3952:0124/164331.910:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 16:53:31.921 [13844:3952:0124/165331.920:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 17:03:31.940 [13844:3952:0124/170331.939:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 20:40:43.755 [13844:3952:0124/204043.754:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 20:50:43.772 [13844:3952:0124/205043.771:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:00:43.784 [13844:3952:0124/210043.783:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:05:41.810 [8560:13016:0124/210541.810:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 24, 2023 21:05:44.944 [8560:13016:0124/210544.942:ERROR:device_event_log_impl.cc(215)] [21:05:44.942] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 21:05:44.946 [8560:13016:0124/210544.944:ERROR:device_event_log_impl.cc(215)] [21:05:44.944] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2023 21:05:49.522 [8560:6276:0124/210549.521:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:06:19.355 [8560:6276:0124/210619.354:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:06:32.686 [8560:10552:0124/210632.685:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 24, 2023 21:07:08.805 [8560:6276:0124/210708.803:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:08:31.163 [8560:6276:0124/210831.162:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:11:21.568 [8560:6276:0124/211121.567:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:17:51.636 [8560:6276:0124/211751.635:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:27:51.697 [8560:6276:0124/212751.696:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:37:51.715 [8560:6276:0124/213751.714:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:47:51.738 [8560:6276:0124/214751.737:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 21:57:51.776 [8560:6276:0124/215751.775:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 22:07:51.782 [8560:6276:0124/220751.781:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 22:17:51.802 [8560:6276:0124/221751.801:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 22:27:51.828 [8560:6276:0124/222751.827:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:20:17.606 [8560:6276:0124/232017.606:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:20:27.567 [8560:6276:0124/232027.567:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:23:44.206 [8560:13016:0124/232344.206:ERROR:device_event_log_impl.cc(215)] [23:23:44.049] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 24, 2023 23:25:58.966 [8560:13016:0124/232558.965:ERROR:device_event_log_impl.cc(215)] [23:25:58.965] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 24, 2023 23:30:27.571 [8560:6276:0124/233027.571:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:37:15.887 [8560:6276:0124/233715.886:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 24, 2023 23:40:46.195 [8560:6276:0124/234046.195:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 24, 2023 23:52:03.614 [8560:6276:0124/235203.614:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:55:54.605 [8560:6276:0124/235554.103:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:56:22.219 [8560:6276:0124/235622.216:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:57:11.24 [8560:6276:0124/235711.022:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2023 23:58:57.598 [8560:6276:0124/235857.536:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 24:02:49.113 [8560:6276:0125/000249.111:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 24:08:45.351 [8560:6276:0125/000845.351:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 24:13:13.284 [8560:13016:0125/001313.283:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 25, 2023 24:13:13.670 [8560:13016:0125/001313.669:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 25, 2023 24:18:45.372 [8560:6276:0125/001845.371:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 24:28:45.569 [8560:6276:0125/002845.563:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Jan 25, 2023 15:53:19.299 NEW SESSION
+Jan 25, 2023 15:53:19.299 [17572:13720:0125/155319.296:ERROR:device_event_log_impl.cc(215)] [15:53:19.296] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 15:53:19.901 [17572:13720:0125/155319.298:ERROR:device_event_log_impl.cc(215)] [15:53:19.298] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 25, 2023 15:54:15.954 [17572:14780:0125/155415.953:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 25, 2023 15:54:16.688 [17572:10788:0125/155416.687:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 15:54:41.897 [17572:10788:0125/155441.896:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 15:55:26.952 [17572:10788:0125/155526.951:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 15:57:04.443 [17572:10788:0125/155704.442:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 15:59:54.720 [17572:10788:0125/155953.587:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:07:00.03 [17572:10788:0125/160700.002:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:17:00.16 [17572:10788:0125/161700.015:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:28:39.558 [17572:10788:0125/162839.556:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:38:39.634 [17572:10788:0125/163839.633:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:48:39.649 [17572:10788:0125/164839.647:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 16:58:39.661 [17572:10788:0125/165839.660:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 17:10:32.175 [17572:10788:0125/171032.174:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2023 18:16:50.793 [17572:10788:0125/181650.792:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Jan 26, 2023 11:28:57.932 NEW SESSION
+Jan 26, 2023 11:28:57.933 [9344:15380:0126/112857.930:ERROR:network_service_instance_impl.cc(539)] Network service crashed, restarting service.
+Jan 26, 2023 11:28:58.385 [9344:15380:0126/112858.320:ERROR:device_event_log_impl.cc(215)] [11:28:58.319] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 26, 2023 11:28:58.387 [9344:15380:0126/112858.321:ERROR:device_event_log_impl.cc(215)] [11:28:58.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 26, 2023 11:28:58.389 [9344:15380:0126/112858.321:ERROR:device_event_log_impl.cc(215)] [11:28:58.320] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 26, 2023 11:29:39.833 [9344:15380:0126/112939.832:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 26, 2023 11:29:40.352 [9344:15380:0126/112940.352:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 26, 2023 11:29:48.156 [9344:1512:0126/112948.154:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:29:57.473 [9344:13808:0126/112957.472:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 26, 2023 11:30:13.150 [9344:1512:0126/113013.150:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:31:01.706 [9344:1512:0126/113101.705:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:32:28.152 [9344:1512:0126/113228.151:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:36:13.963 [9344:1512:0126/113613.961:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:41:54.527 [9344:1512:0126/114154.526:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 11:51:54.533 [9344:1512:0126/115154.531:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:01:54.552 [9344:1512:0126/120154.551:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:11:54.564 [9344:1512:0126/121154.563:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:21:54.576 [9344:1512:0126/122154.574:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:31:54.584 [9344:1512:0126/123154.583:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:41:54.603 [9344:1512:0126/124154.602:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 12:51:54.622 [9344:1512:0126/125154.622:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 13:01:54.639 [9344:1512:0126/130154.638:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 13:11:54.642 [9344:1512:0126/131154.641:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 13:21:54.655 [9344:1512:0126/132154.654:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 14:24:07.227 [9344:1512:0126/142407.226:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 14:34:07.241 [9344:1512:0126/143407.239:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 14:44:07.249 [9344:1512:0126/144407.247:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 20:13:40.57 [9344:1512:0126/201337.598:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 26, 2023 20:14:39.429 [9344:10152:0126/201439.428:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 26, 2023 21:54:44.458 [9344:1512:0126/215444.373:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Jan 27, 2023 14:10:21.679 NEW SESSION
+Jan 27, 2023 14:10:21.679 [13776:9188:0127/141021.677:ERROR:device_event_log_impl.cc(215)] [14:10:21.677] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2023 14:10:22.21 [13776:9188:0127/141021.677:ERROR:device_event_log_impl.cc(215)] [14:10:21.677] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 27, 2023 14:11:11.366 [13776:13324:0127/141111.364:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 27, 2023 14:11:20.696 [13776:9032:0127/141120.695:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 14:11:26.922 [13776:9188:0127/141126.921:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 27, 2023 14:11:27.117 [13776:9188:0127/141127.116:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jan 27, 2023 14:11:50.532 [13776:9032:0127/141150.530:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 14:12:45.830 [13776:9032:0127/141245.830:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 14:14:13.290 [13776:9032:0127/141413.289:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 14:16:59.48 [13776:9032:0127/141659.047:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 14:24:21.770 [13776:9032:0127/142421.768:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 15:24:25.61 [13776:9032:0127/152425.061:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 15:34:26.491 [13776:9032:0127/153426.449:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 15:44:26.526 [13776:9032:0127/154426.525:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 15:54:26.563 [13776:9032:0127/155426.562:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 27, 2023 15:59:07.632 [13776:9032:0127/155907.630:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Jan 30, 2023 19:29:44.867 NEW SESSION
+Jan 30, 2023 19:29:44.867 [6440:4056:0130/192944.865:ERROR:device_event_log_impl.cc(215)] [19:29:44.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 19:29:44.895 [6440:4056:0130/192944.865:ERROR:device_event_log_impl.cc(215)] [19:29:44.865] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 20:17:50.947 [16576:2628:0130/201750.946:ERROR:device_event_log_impl.cc(215)] [20:17:50.945] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 20:17:50.948 [16576:2628:0130/201750.946:ERROR:device_event_log_impl.cc(215)] [20:17:50.946] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 20:18:48.313 [16576:16736:0130/201848.313:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 30, 2023 23:20:59.870 NEW SESSION
+Jan 30, 2023 23:20:59.870 [9756:13824:0130/232059.867:ERROR:device_event_log_impl.cc(215)] [23:20:59.867] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:20:59.895 [9756:13824:0130/232059.867:ERROR:device_event_log_impl.cc(215)] [23:20:59.868] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:20:59.962 [9756:7984:0130/232059.961:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 30, 2023 23:27:24.865 [16212:1292:0130/232724.864:ERROR:device_event_log_impl.cc(215)] [23:27:24.864] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:27:24.865 [16212:1292:0130/232724.865:ERROR:device_event_log_impl.cc(215)] [23:27:24.865] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:28:22.48 [16212:14084:0130/232822.046:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 30, 2023 23:31:38.483 [16212:16296:0130/233138.483:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:38.484 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:38.484 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:38.485 
+Jan 30, 2023 23:31:39.776 [16212:16296:0130/233139.776:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:39.777 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:39.777 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:39.778 
+Jan 30, 2023 23:31:43.828 [16212:18040:0130/233143.827:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:43.829 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:43.830 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:43.830 
+Jan 30, 2023 23:31:44.437 [16212:16296:0130/233144.437:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:44.438 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:44.440 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:44.441 
+Jan 30, 2023 23:31:44.499 [16212:16296:0130/233144.499:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:44.500 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:44.500 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:44.501 
+Jan 30, 2023 23:31:55.423 [16212:6928:0130/233155.423:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:55.424 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:55.425 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:55.425 
+Jan 30, 2023 23:31:55.426 [16212:16296:0130/233155.423:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:55.426 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:55.428 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:55.428 
+Jan 30, 2023 23:31:55.970 [16212:11324:0130/233155.970:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:55.971 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:55.972 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:55.973 
+Jan 30, 2023 23:31:55.973 [16212:6928:0130/233155.970:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:55.974 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:55.975 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:55.976 
+Jan 30, 2023 23:31:56.338 [16212:6928:0130/233156.337:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:56.338 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:56.339 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:56.340 
+Jan 30, 2023 23:31:56.773 [16212:6928:0130/233156.773:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:56.774 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:56.775 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:56.775 
+Jan 30, 2023 23:31:57.276 [16212:6928:0130/233157.276:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:31:57.277 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:31:57.278 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:31:57.278 
+Jan 30, 2023 23:32:04.119 [16212:17804:0130/233204.118:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:32:04.119 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:32:04.119 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:32:04.120 
+Jan 30, 2023 23:32:17.878 [16212:6928:0130/233217.878:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:32:17.879 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:32:17.880 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:32:17.880 
+Jan 30, 2023 23:32:18.724 [16212:6928:0130/233218.724:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:32:18.725 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:32:18.726 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:32:18.726 
+Jan 30, 2023 23:32:23.814 [16212:13104:0130/233223.814:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:32:23.815 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:32:23.815 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:32:23.816 
+Jan 30, 2023 23:32:52.770 [16212:14084:0130/233252.769:ERROR:cert_verify_proc_builtin.cc(676)] CertVerifyProcBuiltin for api.lunamedia.io failed:
+Jan 30, 2023 23:32:52.771 ----- Certificate i=0 (CN=*.lunamedia.io) -----
+Jan 30, 2023 23:32:52.772 ERROR: Time is after notAfter
+Jan 30, 2023 23:32:52.772 
+Jan 30, 2023 23:32:52.773 
+Jan 30, 2023 23:32:59.857 [16212:14084:0130/233259.856:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:32:59.857 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:32:59.858 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:32:59.859 
+Jan 30, 2023 23:33:22.990 [16212:16296:0130/233322.988:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:33:22.991 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:33:22.993 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:33:22.993 
+Jan 30, 2023 23:33:58.79 [16212:18500:0130/233358.079:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:33:58.80 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:33:58.81 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:33:58.81 
+Jan 30, 2023 23:33:58.378 [16212:18464:0130/233358.378:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 30, 2023 23:33:58.379 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 30, 2023 23:33:58.379 ERROR: Failed parsing Certificate
+Jan 30, 2023 23:33:58.380 
+Jan 30, 2023 23:37:32.454 [2064:3624:0130/233732.453:ERROR:device_event_log_impl.cc(215)] [23:37:32.453] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:37:32.454 [2064:3624:0130/233732.453:ERROR:device_event_log_impl.cc(215)] [23:37:32.453] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:38:29.835 [2064:18356:0130/233829.834:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Jan 30, 2023 23:59:42.964 NEW SESSION
+Jan 30, 2023 23:59:42.964 [10224:5300:0130/235942.960:ERROR:device_event_log_impl.cc(215)] [23:59:42.960] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 30, 2023 23:59:42.967 [10224:5300:0130/235942.960:ERROR:device_event_log_impl.cc(215)] [23:59:42.960] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 24:00:39.859 [10224:8668:0131/000039.858:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 24:12:07.979 [10224:20392:0131/001207.978:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:12:07.979 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:12:07.980 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:12:07.982 
+Jan 31, 2023 24:12:08.506 [10224:10332:0131/001208.506:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:12:08.507 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:12:08.508 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:12:08.508 
+Jan 31, 2023 24:13:17.333 [10224:18384:0131/001317.333:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:17.334 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:17.334 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:17.335 
+Jan 31, 2023 24:13:18.709 [10224:18384:0131/001318.708:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:18.710 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:18.711 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:18.712 
+Jan 31, 2023 24:13:21.253 [10224:17488:0131/001321.252:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:21.254 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:21.255 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:21.255 
+Jan 31, 2023 24:13:24.306 [10224:5804:0131/001324.306:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:24.307 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:24.308 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:24.309 
+Jan 31, 2023 24:13:25.110 [10224:17488:0131/001325.109:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:25.111 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:25.112 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:25.112 
+Jan 31, 2023 24:13:29.80 [10224:17488:0131/001329.080:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:29.81 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:29.81 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:29.82 
+Jan 31, 2023 24:13:31.621 [10224:18384:0131/001331.619:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:31.621 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:31.622 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:31.623 
+Jan 31, 2023 24:13:33.124 [10224:18384:0131/001333.124:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:33.125 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:33.126 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:33.127 
+Jan 31, 2023 24:13:42.105 [10224:17488:0131/001342.104:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:42.106 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:42.108 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:42.109 
+Jan 31, 2023 24:13:46.423 [10224:17488:0131/001346.422:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:46.434 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:46.435 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:46.437 
+Jan 31, 2023 24:13:58.956 [10224:13540:0131/001358.955:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:13:58.957 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:13:58.957 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:13:58.958 
+Jan 31, 2023 24:14:12.929 [10224:18384:0131/001412.927:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:14:12.931 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:14:12.932 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:14:12.934 
+Jan 31, 2023 24:14:20.775 [10224:18384:0131/001420.774:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 24:14:20.777 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 24:14:20.779 ERROR: Failed parsing Certificate
+Jan 31, 2023 24:14:20.781 
+
+Jan 31, 2023 16:45:41.423 NEW SESSION
+Jan 31, 2023 16:45:41.423 [14112:5816:0131/164541.421:ERROR:device_event_log_impl.cc(215)] [16:45:41.421] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 16:45:41.451 [14112:5816:0131/164541.421:ERROR:device_event_log_impl.cc(215)] [16:45:41.421] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 31, 2023 16:46:38.563 [14112:2276:0131/164638.562:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Jan 31, 2023 16:50:05.204 [14112:11404:0131/165005.204:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 16:50:05.205 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 16:50:05.206 ERROR: Failed parsing Certificate
+Jan 31, 2023 16:50:05.207 
+Jan 31, 2023 16:50:07.796 [14112:2276:0131/165007.796:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jan 31, 2023 16:50:07.797 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jan 31, 2023 16:50:07.798 ERROR: Failed parsing Certificate
+Jan 31, 2023 16:50:07.799 
+Jan 31, 2023 17:31:26.659 [14112:16144:0131/173126.659:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 31, 2023 20:28:55.904 [14112:16144:0131/202855.904:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 31, 2023 20:29:01.358 [14112:16144:0131/202901.357:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 31, 2023 20:29:01.364 [14112:15624:0131/202901.363:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 31, 2023 20:29:25.704 [14112:16144:0131/202925.704:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 31, 2023 20:30:07.455 [14112:536:0131/203007.455:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Mar 17, 2023 15:24:55.586 NEW SESSION
+Mar 17, 2023 15:24:55.586 [6644:9932:0317/152455.579:ERROR:device_event_log_impl.cc(222)] [15:24:55.579] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 15:24:55.689 [6644:9932:0317/152455.625:ERROR:device_event_log_impl.cc(222)] [15:24:55.626] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 15:25:05.325 [6644:13096:0317/152505.324:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Mar 17, 2023 15:25:05.325 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Mar 17, 2023 15:25:05.326 ERROR: Failed parsing Certificate
+Mar 17, 2023 15:25:05.327 
+Mar 17, 2023 15:25:16.533 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 17, 2023 15:29:41.426 [6644:15204:0317/152941.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 15:30:08.759 [6644:15204:0317/153008.758:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 15:31:06.517 [6644:15204:0317/153106.516:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 15:32:32.47 [6644:15204:0317/153232.047:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 15:35:47.814 [6644:15204:0317/153547.814:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 15:40:12.402 [6644:9888:0317/154012.401:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 17, 2023 16:02:32.669 [6644:15204:0317/160232.668:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:02:58.490 [6644:15204:0317/160258.489:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:03:50.456 [6644:15204:0317/160350.456:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:05:44.247 [6644:15204:0317/160544.245:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:08:57.870 [6644:15204:0317/160857.869:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:16:14.204 [6644:15204:0317/161614.204:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:26:14.208 [6644:15204:0317/162614.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:36:14.213 [6644:15204:0317/163614.212:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 16:55:15.320 [6644:15204:0317/165515.319:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 17, 2023 19:18:52.710 [6644:15204:0317/191852.709:ERROR:connection_factory_impl.cc(473)] ConnectionHandler failed with net error: -2
+Mar 17, 2023 19:18:58.66 [6644:15204:0317/191858.065:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Mar 17, 2023 19:25:19.887 [6644:9888:0317/192519.886:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Mar 17, 2023 19:25:19.888 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Mar 17, 2023 19:25:19.889 ERROR: Failed parsing Certificate
+Mar 17, 2023 19:25:19.890 
+
+Mar 17, 2023 20:12:34.18 NEW SESSION
+Mar 17, 2023 20:12:34.18 [3164:2912:0317/201234.016:ERROR:device_event_log_impl.cc(222)] [20:12:34.016] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 20:12:34.19 [3164:2912:0317/201234.017:ERROR:device_event_log_impl.cc(222)] [20:12:34.016] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 20:12:47.50 [3164:17952:0317/201247.049:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Mar 17, 2023 20:12:47.51 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Mar 17, 2023 20:12:47.51 ERROR: Failed parsing Certificate
+Mar 17, 2023 20:12:47.53 
+Mar 17, 2023 20:13:09.272 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Oct 16, 2023 19:11:29.253 NEW SESSION
+Oct 16, 2023 19:11:29.253 [7288:13252:1016/191129.251:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+Oct 16, 2023 19:11:29.311 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Oct 16, 2023 19:11:29.312 ERROR: Failed parsing Certificate
+Oct 16, 2023 19:11:29.312 
+Oct 16, 2023 19:11:58.753 [7288:13252:1016/191158.752:ERROR:cert_issuer_source_aia.cc(36)] Error parsing cert retrieved from AIA (as DER):
+Oct 16, 2023 19:11:58.754 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Oct 16, 2023 19:11:58.754 ERROR: Failed parsing Certificate
+Oct 16, 2023 19:11:58.755 

@@ -1,0 +1,18 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+<!--  
+  <servlet>
+   <servlet-class>servlet_web_app_project_with_restAPI</servlet-class>
+   <servlet-name>restApi</servlet-name>
+  </servlet>
+  
+  <servlet-mapping>
+  
+  <servlet-name>restApi</servlet-name>
+  <url-pattern>singUpEmployee</url-pattern>
+  </servlet-mapping>
+  -->
+</web-app>

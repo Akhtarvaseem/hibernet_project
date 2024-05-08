@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="F:\javaAdvanceProject\servlet-employee-project-hibernate"/>
+			<item value="F:\javaAdvanceProject"/>
+			<item value="F:\javaAdvanceProject\servlate-session-project"/>
+			<item value="F:\javaAdvanceProject\spring-core-with-anotation\src\main\java\com\jsp\spring_core_with_anotation\constructor\LaptopDriver.java"/>
+			<item value="F:\javaAdvanceProject\servlate-session-project\src\main\java\com\jsp\my_student_dashBoard\Controller\LogOutController.java"/>
+			<item value="F:\javaAdvanceProject\servlet-simple-project-eve"/>
+			<item value="F:\javaAdvanceProject\hibernate-one-to-one-uni\src\main\java\com\ty\one_to_one_uni\dao\EmployeeDao.java"/>
+			<item value="F:\javaAdvanceProject\hibernet-many-to-one-patient-hospital-uni\src\main\java\com\jsp\many_to_one_patient_hospital_uni\controller\PatientHospitalController.java"/>
+			<item value="F:\javaAdvanceProject\hibernet-one-to-one-LaptopProcesser-uni"/>
+			<item value="F:\javaAdvanceProject\hibernet-crud-opration-train\src\main\java\com\jsp\hibernet_crud_opration_train\controller\TrainController.java"/>
+			<item value="F:\javaAdvanceProject\jdbc-crud-statement-collage-project\src\com\jsp\jdbc_crud_statement_collage_project\service\CollegeService.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.eCommerce.MyE_Commerce"/>
+		</list>
+		<list key="groupId">
+			<item value="com.eCommerce"/>
+		</list>
+		<list key="artifactId">
+			<item value="MyE-Commerce"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="71"/>
+	</section>
+</section>
